@@ -8,9 +8,9 @@
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C026D3&height=200&section=header&text=Resham%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20Knowledge%20Graphs%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" />
 
-<!-- Typing animation -->
+<!-- Typing animation (short lines so they never clip) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=680&lines=Building+end-to-end+AI+systems%2C+from+data+to+production;Knowledge+Graphs+%2B+LLMs+%2B+Reinforcement+Learning;3%2B+years+across+ML%2C+research+%26+full-stack+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=720&lines=Research-grade+AI%2C+production-ready+code;LLMs+%C2%B7+Knowledge+Graphs+%C2%B7+Reinforcement+Learning;3%2B+years+shipping+end-to-end+ML+systems;I+turn+hard+research+into+software+that+works" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,9 +21,6 @@
 </a>
 <a href="mailto:study.resham@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="<<< REPLACE: YOUR_PORTFOLIO_URL >>>">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 <a href="<<< REPLACE: YOUR_RESUME_LINK >>>">
   <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
@@ -48,7 +45,7 @@ I build **end-to-end AI systems** — from data pipelines to production deployme
 - 🎓 MSc CS (Intelligent Systems), RPTU · BE Computer Engineering, SPPU (India)
 - 💼 Experience: **TUM** · **Fraunhofer IGCV** · **Accenture** · **DFKI** (project)
 - 🌍 Based in Kaiserslautern, Germany · Open to ML/AI roles across Germany
-- 📫 Reach me: **reshamjoshi30@yahoo.com**
+- 📫 Reach me: **study.resham@gmail.com**
 - 💬 Ask me about: knowledge graphs, LLM & agentic pipelines, RL, or turning research into production code
 
 ---
@@ -127,4 +124,3 @@ I build **end-to-end AI systems** — from data pipelines to production deployme
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:9333EA,100:6D28D9&height=120&section=footer" />
 
 </div>
-
