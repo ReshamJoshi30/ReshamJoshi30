@@ -1,36 +1,4 @@
-<!-- ============================================================= -->
-<!--  PROFILE README for github.com/ReshamJoshi30                   -->
-<!--  Replace the 3 placeholders marked  <<< REPLACE >>>            -->
-<!-- ============================================================= -->
-
-<div align="center">
-
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C026D3&height=200&section=header&text=Resham%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20Knowledge%20Graphs%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" />
-
-<!-- Typing animation (short lines so they never clip) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=720&lines=Research-grade+AI%2C+production-ready+code;LLMs+%C2%B7+Knowledge+Graphs+%C2%B7+Reinforcement+Learning;3%2B+years+shipping+end-to-end+ML+systems;I+turn+hard+research+into+software+that+works" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Contact / social badges -->
-<a href="<<< REPLACE: YOUR_LINKEDIN_URL >>>">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:reshamjoshi30@yahoo.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/ReshamJoshi30/ReshamJoshi30/blob/main/Resham_Joshi_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ReshamJoshi30&label=Profile%20views&color=9333EA&style=flat" alt="Profile views" />
-
-</div>
+<!-- ============================================================= --> <!-- PROFILE README for github.com/ReshamJoshi30 --> <!-- Replace the 3 placeholders marked <<< REPLACE >>> --> <!-- ============================================================= --> <div align="center"> <!-- Animated header banner --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:C026D3&height=200&section=header&text=Resham%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20Knowledge%20Graphs%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" /> <!-- Typing animation (short lines so they never clip) --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=720&lines=Research-grade+AI%2C+production-ready+code;LLMs+%C2%B7+Knowledge+Graphs+%C2%B7+Reinforcement+Learning;3%2B+years+shipping+end-to-end+ML+systems;I+turn+hard+research+into+software+that+works" alt="Typing SVG" /> </a> <br/> <!-- Contact / social badges --> <a href="<<< REPLACE: YOUR_LINKEDIN_URL >>>"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:study.resham@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/ReshamJoshi30/ReshamJoshi30/blob/main/Resham_Joshi_Resume.pdf"> <img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=ReshamJoshi30&label=Profile%20views&color=9333EA&style=flat" alt="Profile views" /> </div>
 
 ---
 
