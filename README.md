@@ -22,8 +22,8 @@
 <a href="mailto:study.resham@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="<<< REPLACE: YOUR_RESUME_LINK >>>">
-  <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
+<a href="https://github.com/ReshamJoshi30/ReshamJoshi30/blob/main/Resham_Joshi_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
 </a>
 
 <br/>
@@ -65,15 +65,18 @@ I build **end-to-end AI systems** — from data pipelines to production deployme
 **Machine Learning & AI**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ml" />
-&nbsp;
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-542437?style=flat-square)
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Bokeh-542437?style=for-the-badge&logo=python&logoColor=white" alt="Bokeh" />
 
 **Data, Knowledge Graphs & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mongodb,neo4j,mysql,docker,git,gitlab,postman,linux&theme=dark" alt="data-devops" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,gitlab,postman,linux&theme=dark" alt="data-devops" />
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 <br/>
 
