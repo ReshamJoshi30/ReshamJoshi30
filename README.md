@@ -19,7 +19,7 @@
 <a href="<<< REPLACE: YOUR_LINKEDIN_URL >>>">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:study.resham@gmail.com">
+<a href="mailto:reshamjoshi30@yahoo.com">
   <img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/ReshamJoshi30/ReshamJoshi30/blob/main/Resham_Joshi_Resume.pdf">
@@ -34,96 +34,98 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hi there, how about short info about me ?
 
-I'm a **Computer Science graduate (MSc, Intelligent Systems — RPTU Kaiserslautern)** with **3+ years of experience** in machine learning, knowledge graphs, and full-stack software development across research and industry.
+I'm a **Computer Science graduate (MSc, Intelligent Systems - RPTU Kaiserslautern)** with **3+ years of experience** in machine learning, knowledge graphs, and full-stack software development across research and industry.
 
-I build **end-to-end AI systems** — from data pipelines to production deployment — and I'm especially drawn to combining **large language models** with **structured knowledge** (knowledge graphs, ontologies, reasoning). My master's thesis built an **autonomous RL agent (Double DQN + GPT-4o-mini pipeline)** that automatically repairs knowledge graphs, hitting **88–96% repair success** on a 2,000+ triple automotive graph.
+I build **end-to-end AI systems** from data pipelines to production deployment and I'm especially drawn to combining **large language models** with **structured knowledge** (knowledge graphs, ontologies, reasoning). My master's thesis built an **autonomous RL agent (Double DQN + GPT-4o-mini pipeline)** that automatically repairs knowledge graphs, hitting **88–96% repair success** on a 2,000+ triple automotive graph.
 
-- 🔭 Currently: Student Assistant @ **TUM** — building LLM-powered tools on a live university platform (chatbot + code-compliance bot), with CI/CD, testing, and staged rollouts
+- 🔭 Currently: Student Assistant @ **TUM** - building LLM-powered tools on a live university platform (chatbot + code-compliance bot), with CI/CD, testing, and staged rollouts
 - 🌱 Focus: **LLMs · Knowledge Graphs · Reinforcement Learning · NLP · ML pipelines · Full-stack**
-- 🎓 MSc CS (Intelligent Systems), RPTU · BE Computer Engineering, SPPU (India)
+- 🎓 MSc CS (Major - Intelligent Systems, Minor - Software Engineering), RPTU (Kaiserslautern Germany)
+- 🎓 BE Computer Engineering, SPPU (India)
 - 💼 Experience: **TUM** · **Fraunhofer IGCV** · **Accenture** · **DFKI** (project)
 - 🌍 Based in Kaiserslautern, Germany · Open to ML/AI roles across Germany
-- 📫 Reach me: **study.resham@gmail.com**
+- 📫 Reach me: **reshamjoshi30@yahoo.com**
 - 💬 Ask me about: knowledge graphs, LLM & agentic pipelines, RL, or turning research into production code
 
 ---
 
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
 
-**Languages**
+Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c,cpp&theme=dark" alt="languages" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 
-**Web & Full-Stack**
+Web & Full-Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nodejs,express&theme=dark" alt="web" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
-**Machine Learning & AI**
+Machine Learning & AI
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ml" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Bokeh-542437?style=for-the-badge&logo=python&logoColor=white" alt="Bokeh" />
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Bokeh-542437?style=for-the-badge&logo=python&logoColor=white" alt="Bokeh" />
+Data, Knowledge Graphs & DevOps
 
-**Data, Knowledge Graphs & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,gitlab,postman,linux&theme=dark" alt="data-devops" />
-
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-<br/>
-
-<sub><b>Also working with:</b> Knowledge Graphs · Ontology Engineering (OWL 2 DL) · RDF / RDFLib · Description Logic · Semantic Web · Reinforcement Learning (Double DQN) · Graph Neural Networks · Causal Discovery (DAGMA) · NLP · Prompt Engineering · CI/CD · REST APIs · SAP Hybris</sub>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> Pinned below. My best work — click through for full write-ups.
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 **KG Quality via RL** *(thesis)* | Autonomous agent (Double DQN + GPT-4o-mini) that repairs knowledge-graph inconsistencies — 88–96% success | Python, PyTorch, OpenAI, RDFLib |
-| 🏭 **Anomaly Detection for Manufacturing** | Autoencoder-based defect detection (~90% acc) with REST API, deployed in production | PyTorch, Docker, Neo4j |
-| 🕸️ **Multi-Agent Debugging Platform** *(DFKI)* | Real-time visualization & debugging tool for multi-agent AI systems | React, Node.js, Express, MongoDB |
-| 🤖 **LLM Compliance & Chatbot Tools** *(TUM)* | LLM bots that guide users and check code against project rules pre-deploy | Python, LLMs, PHP |
-
-<!-- Replace/expand this table with real repo links as each project goes public -->
-
----
-
-## 📊 GitHub Stats
-
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <br/> </div>
+🌟 Specializations
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReshamJoshi30&show_icons=true&count_private=true&hide_border=true&title_color=9333EA&icon_color=C026D3&text_color=808080&bg_color=00000000" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshamJoshi30&layout=compact&hide_border=true&title_color=9333EA&text_color=808080&bg_color=00000000&langs_count=8" alt="Top Languages" />
+🕸️ Knowledge Graphs & Semantic Web
+
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-5B21B6?style=for-the-badge&logo=graphql&logoColor=white" alt="Knowledge Graphs" /> <img src="https://img.shields.io/badge/Ontology%20Engineering-5B21B6?style=for-the-badge&logo=w3c&logoColor=white" alt="Ontology Engineering" /> <img src="https://img.shields.io/badge/OWL%202%20DL-5B21B6?style=for-the-badge&logo=w3c&logoColor=white" alt="OWL 2 DL" /> <img src="https://img.shields.io/badge/RDF%20%26%20RDFLib-5B21B6?style=for-the-badge&logo=w3c&logoColor=white" alt="RDF / RDFLib" /> <img src="https://img.shields.io/badge/Description%20Logic-5B21B6?style=for-the-badge" alt="Description Logic" /> <img src="https://img.shields.io/badge/Semantic%20Web-5B21B6?style=for-the-badge&logo=w3c&logoColor=white" alt="Semantic Web" />
+
+🤖 AI / ML Methods
+
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-7C3AED?style=for-the-badge" alt="Reinforcement Learning" /> <img src="https://img.shields.io/badge/Double%20DQN-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="Double DQN" /> <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-7C3AED?style=for-the-badge" alt="Graph Neural Networks" /> <img src="https://img.shields.io/badge/Causal%20Discovery%20(DAGMA)-7C3AED?style=for-the-badge" alt="Causal Discovery" /> <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" alt="NLP" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+
+⚙️ Engineering & Delivery
+
+<img src="https://img.shields.io/badge/CI%2FCD-A21CAF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" /> <img src="https://img.shields.io/badge/REST%20APIs-A21CAF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/SAP%20Hybris-A21CAF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Hybris" /> </div>
+🚀 Featured Projects
+<br/>
+🧠 Knowledge Graph Repair via Reinforcement Learning  ·  <sub>Master's Thesis</sub>
+
+An autonomous AI agent (Double DQN, dueling architecture) paired with a GPT-4o-mini pipeline that repairs logical inconsistencies in knowledge graphs with no human in the loop. Repair is framed as a Markov Decision Process with action masking, shaped rewards, and OWL reasoners (Konclude, HermiT) as semantic validators.
+
+📈 88–96% repair success at 5.1 steps/episode on a 2,000+ triple automotive graph.
+
+Python  PyTorch  OpenAI / GPT-4o  RDFLib  OWL 2 DL
+
+➡️  View Repository  (link coming soon)
 
 <br/>
+🏭 Anomaly Detection for Live Manufacturing  ·  <sub>Fraunhofer IGCV</sub>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReshamJoshi30&hide_border=true&ring=9333EA&fire=C026D3&currStreakLabel=9333EA&background=00000000" alt="GitHub Streak" />
+An autoencoder-based anomaly-detection system for live production lines, with automated defect classification and REST API integration. Owned the full ML lifecycle ingestion, feature engineering, training, Docker deployment, and production monitoring and improved root-cause analysis by combining DAGMA causal discovery with Graph Neural Networks over a Neo4j knowledge graph.
+
+📈 ~90% detection accuracy in production, feeding a React dashboard for non-technical stakeholders.
+
+PyTorch  Docker  Neo4j  GNNs  REST API
+
+➡️  View Repository  (link coming soon)
 
 <br/>
+🕸️ Multi-Agent Debugging & Visualization Platform  ·  <sub>DFKI</sub>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ReshamJoshi30&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+A full-stack, real-time platform for visualizing and debugging multi-agent AI systems, giving researchers a live window into agent interactions and structured validation sessions.
 
-</div>
+📈 2× faster debugging, and surfaced 8 previously undetected critical issues in agent behavior.
 
----
+React  Node.js  Express  MongoDB
+
+➡️  View Repository  (link coming soon)
+
+<br/>
+🤖 LLM-Powered Developer Tools  ·  <sub>TUM</sub>
+
+Two LLM tools for TUM's live university platform: a chatbot that guides users through the product, and a code-compliance bot that checks developer changes against project rules before deployment helping team leads confirm production-readiness. Shipped with CI/CD, automated testing, and staged rollouts.
+
+Python  LLMs  PHP  CI/CD
+
+➡️  View Repository  (link coming soon)
 
 <div align="center">
-
-### 💜 Thanks for stopping by — let's build something.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:9333EA,100:6D28D9&height=120&section=footer" />
-
-</div>
+💜 Thanks for stopping by! Let's build something...
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:9333EA,100:6D28D9&height=120&section=footer" /> </div>
